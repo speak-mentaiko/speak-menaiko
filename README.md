@@ -1,2 +1,3 @@
 # speak-menaiko
-# とりあえず作ってみたよ
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?speak-mentaiko=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
