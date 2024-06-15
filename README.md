@@ -1,3 +1,3 @@
 # speak-menaiko
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?speak-mentaiko=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=speak-mentaiko)](https://github.com/anuraghazra/github-readme-stats)
